@@ -77,3 +77,6 @@ Hint: use `@Scheduled` in your application, and use a REST client to call the AP
 
 See https://github.com/nbaars/java-training-library/jpa for more information about JPA.
 See https://github.com/nbaars/java-training-library/jdbc for more information about JDBC.
+
+https://start.spring.io/
+
